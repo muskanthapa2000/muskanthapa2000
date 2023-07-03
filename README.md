@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *react,HTML,CSS, and javascript*
 
-- 📫 How to reach me *rohitkumar27699@gmail.com*
+- 📫 How to reach me *7022muskan@gmail.com*
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1jOuzpWdZ-N0UF9CWiThh3UkIaVogiHBR/view?usp=sharing
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/rohit-kumar-034909242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/muskan-thapa-a41a9a256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket dubey" height="30" width="40" /></a>
 <a href="https://codesandbox.com/muskanthapa2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="muskanthapa2000" height="30" width="40" /></a>
 </p>
 
