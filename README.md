@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskanthapa2000&label=Profile%20views&color=0e75b6&style=flat" alt="muskanthapa2000" /> </p>
 
-- 👨‍💻 All of my projects are available at [muskanthapa2000.github.io](muskanthapa2000.github.io)
+- 👨‍💻 All of my projects are available at [muskanthapa2000.github.io](muskanthapa2000.github.io)](https://github.com/)
 
-- 💬 Ask me about *react,HTML,CSS, and javascript*
+- 💬 Ask me about *HTML, CSS, JAVA, JAVA SCRIPT, REACT, REDUX, CHAKRA UI, MONGODB, EXPRESS, NODE JS*
 
 - 📫 How to reach me *7022muskan@gmail.com*
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1jOuzpWdZ-N0UF9CWiThh3UkIaVogiHBR/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jOuzpWdZ-N0UF9CWiThh3UkIaVogiHBR/view?usp=sharing](https://drive.google.com/file/d/1jN7jBtESD3OPN0_uqA673wGQTWyjo8xr/view?usp=sharing)
 
 - ⚡ Fun fact *I love to draw*
 
