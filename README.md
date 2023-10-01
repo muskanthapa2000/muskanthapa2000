@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *7022muskan@gmail.com* 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jOuzpWdZ-N0UF9CWiThh3UkIaVogiHBR/view?usp=sharing]([https://drive.google.com/file/d/1jN7jBtESD3OPN0_uqA673wGQTWyjo8xr/view?usp=sharing](https://drive.google.com/file/d/16F5emhw_slWpQijxoWlW0_jcX_Guwysb/view?usp=drive_link))
+- 📄 Know about my experiences (https://drive.google.com/file/d/16F5emhw_slWpQijxoWlW0_jcX_Guwysb/view?usp=sharing)
 
 - ⚡ Fun fact *I love to draw*
 
