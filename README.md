@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskanthapa2000&label=Profile%20views&color=0e75b6&style=flat" alt="muskanthapa2000" /> </p>
 
-- 👨‍💻 All of my projects are available at (muskanthapa2000.github.io)](https://github.com/)
+- 👨‍💻 All of my projects are available at [(https://muskanthapa2000.github.io/)](https://github.com/)
 
 - 💬 Ask me about *HTML, CSS, JAVA, JAVA SCRIPT, REACT, REDUX, CHAKRA UI, MONGODB, EXPRESS, NODE JS*
 
