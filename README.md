@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskanthapa2000&show_icons=true&locale=en" alt="muskanthapa2000" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=DenverCoder1&" alt="muskanthapa2000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanthapa2000&" alt="muskanthapa2000" /></p>
